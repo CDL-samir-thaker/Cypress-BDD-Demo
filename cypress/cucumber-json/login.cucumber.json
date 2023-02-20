@@ -1,0 +1,82 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Login Page",
+    "line": 1,
+    "id": "login-page",
+    "tags": [],
+    "uri": "login.feature",
+    "elements": [
+      {
+        "id": "login-page;as-a-user,-i-should-be-able-to-login",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "As a user, I should be able to login",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "user has browse to the application sucessfully",
+            "result": {
+              "status": "passed",
+              "duration": 663000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "the user has enter a username as \"student\"",
+            "result": {
+              "status": "passed",
+              "duration": 268000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "the user has enter a password as \"Password123\"",
+            "result": {
+              "status": "passed",
+              "duration": 333000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "the user clicks on button \"Submit\"",
+            "result": {
+              "status": "passed",
+              "duration": 795000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "user can see the application dashboard",
+            "result": {
+              "status": "passed",
+              "duration": 9000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "user can see message as \"Logged In Successfully\"",
+            "result": {
+              "status": "passed",
+              "duration": 13000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

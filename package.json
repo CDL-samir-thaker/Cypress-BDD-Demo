@@ -1,7 +1,8 @@
 {
   "devDependencies": {
     "cypress": "^12.6.0",
-    "cypress-cucumber-preprocessor": "^4.3.1"
+    "cypress-cucumber-preprocessor": "^4.3.1",
+    "multiple-cucumber-html-reporter": "^3.1.0"
   },
   "name": "cypress-bdd-demo",
   "description": "This is a demo project for cypress with cucumber BDD",
@@ -9,7 +10,13 @@
   "main": "index.js",
   "integrationFolder": "cypress/integration/features",
   "cypress-cucumber-preprocessor": {
-    "nonGlobalStepDefinitions": true
+    "nonGlobalStepDefinitions": true,
+    "cucumberJson": {
+      "generate": true,
+      "outputFolder": "cypress/cucumber-json",
+      "filePrefix": "",
+      "fileSuffix": ".cucumber"
+    }
   },
   "dependencies": {
     "aggregate-error": "^3.1.0",
