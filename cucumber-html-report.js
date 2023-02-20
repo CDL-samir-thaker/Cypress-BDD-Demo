@@ -6,6 +6,7 @@ jsonDir: "cypress/cucumber-json",  // ** Path of .json file **//
 reportPath: "./cypress/htmlReports",
 reportSuiteAsScenarios: true,
 openReportInBrowser:true,
+launchBrowser:true,
 saveCollectedJSON :false,
 reportName:'Cypress-BDD-HTML-Reporter',
 displayDuration:true,

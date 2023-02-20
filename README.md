@@ -20,6 +20,7 @@ Behavior-driven development (BDD) is an Agile software development methodology i
 <br><br>
 <h2>Usage</h2><br>
 1. To run the Cypress Test - Open vs code terminal and type  npx cypress open<br>
+2. To generate report run - node cucumber-html-report.js<br>
 <br><br>
 <h2> Reference</h2><br>
 1. https://codenboxautomationlab.com/<br>
