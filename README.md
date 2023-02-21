@@ -25,9 +25,6 @@ Behavior-driven development (BDD) is an Agile software development methodology i
 <h2> Reference</h2><br>
 1. https://codenboxautomationlab.com/<br>
 <br>
-How to run the Cypress Test?
-https://user-images.githubusercontent.com/46947688/220259222-796b2320-5d77-486c-a862-b429476bbd0b.mp4
-<br>
 Report Image:
 <img width="1409" alt="img1" src="https://user-images.githubusercontent.com/46947688/220258550-c32cd298-7575-40a3-810b-e7d1ea860905.png"><br>
 <img width="1403" alt="img2" src="https://user-images.githubusercontent.com/46947688/220258560-cc7ff73a-ae44-49c2-825f-9874a72a46c9.png">
