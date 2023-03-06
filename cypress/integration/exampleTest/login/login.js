@@ -24,4 +24,11 @@ describe('As a user, I want to login into application with a valid credentials',
     And('user can see message as {string}', (message) => {
         cy.get('.post-title').invoke('text').should('eq', message);
     });
+
+    // for scenario outline
+    describe('As a user, I want to login into application with a invalid credentials', () => {
+        Then('user can see error message as {string}', (message) => {
+            cy.get('#error').invoke('text').should('eq', message);
+        });
+    });
 });
