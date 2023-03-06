@@ -22,7 +22,7 @@
             "name": "user has browse to the application sucessfully",
             "result": {
               "status": "passed",
-              "duration": 680000000
+              "duration": 989000000
             }
           },
           {
@@ -32,7 +32,7 @@
             "name": "the user has enter a username as \"student\"",
             "result": {
               "status": "passed",
-              "duration": 264000000
+              "duration": 271000000
             }
           },
           {
@@ -42,7 +42,7 @@
             "name": "the user has enter a password as \"Password123\"",
             "result": {
               "status": "passed",
-              "duration": 325000000
+              "duration": 294000000
             }
           },
           {
@@ -52,7 +52,7 @@
             "name": "the user clicks on button \"Submit\"",
             "result": {
               "status": "passed",
-              "duration": 911000000
+              "duration": 804000000
             }
           },
           {
@@ -62,7 +62,7 @@
             "name": "user can see the application dashboard",
             "result": {
               "status": "passed",
-              "duration": 7000000
+              "duration": 10000000
             }
           },
           {
@@ -72,7 +72,7 @@
             "name": "user can see message as \"Logged In Successfully\"",
             "result": {
               "status": "passed",
-              "duration": 13000000
+              "duration": 22000000
             }
           }
         ]
