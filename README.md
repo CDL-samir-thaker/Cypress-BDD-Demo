@@ -17,7 +17,7 @@ Behavior-driven development (BDD) is an Agile software development methodology i
 4. Install vs code extensions- ESLint v2.4.0<br>
 5. Install vs code extensions-  Prettier - Code formatter v9.10.4<br>
 <h2>Installation</h2><br>
-1. Clone the repo- https://github.com/samirthaker2020/Cypress-BDD-Demo<br>
+1. Clone the repo- https://github.com/CDL-samir-thaker/Cypress-BDD-Demo-with-JavaScript.git<br>
 2. Install required dependency node_modules via running command (npm i or npm install ) in vs code terminal.<br>
 <br>
 <h2>Usage</h2><br>
